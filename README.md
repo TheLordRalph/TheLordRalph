@@ -11,7 +11,7 @@
 <li>💭 I dream of making a good video game</li>
 <li>💬 Ask me about anything</li>
 <li>📫 How to reach me: <a href="mailto:raulmoretamartin@gmail.com">raulmoretamartin@gmail.com</a></li>
-<li>🕹 My Steam user: <a href="https://steamcommunity.com/id/raulete10">Ruffini</a></li>
+<li>🕹 My Steam user: <a href="https://steamcommunity.com/id/lordralph">Ruffini</a></li>
 <li>⚡ Fun fact: I like videogames </li>
 </ul>
 
