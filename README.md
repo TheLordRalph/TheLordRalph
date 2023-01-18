@@ -1,8 +1,32 @@
-<h1 align="center">
+<div align="center">
+
+<h3>
  👋 Hola, soy Raúl Moreta
-</h1>
+</h3>
+<p>
+ Full Stack Developer
+</p>
 
 </br>
+ 
+<p>
+ Bienvenidos amantes del codigo a mi humilde GitHub. Soy un apasionado de la programación con mucho interes en aprender. Estoy especialicado en Java, SQL y JavaScript. Y tengo más conocimientos en otras tecnologías. Actualmente estoy desarrollando un proyecto que consites en un <a href="https://github.com/TheLordRalph/dashboard"> dasboard </a> para la gestion de un hotel, realizado en React.
+</p>
+
+</br>
+
+<a href="https://www.linkedin.com/in/raul-moreta-martin-9a80521b0/">
+ <img src="https://img.shields.io/badge/Linkedin-Raul%20Moreta-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" />
+</a>
+
+<a href="mailto:raulmoretamartin@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-raulmoretamartin%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Linkedin" />
+</a>
+
+</div>
+
+<h1>
+</h1>
 
 <img align="right" width=30% height=30% src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif">
 <ul>
