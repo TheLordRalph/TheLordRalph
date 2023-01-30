@@ -41,11 +41,12 @@
 
 </br>
 
+
 <h2>
- Languages and Tools
+ Lenguajes de Programacion
 </h2>
 
-<div align="center">
+<div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="height: 4rem" />
@@ -54,10 +55,25 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" style="height: 4rem" />
  <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" style="height: 4rem" />
+</div>
+
+ 
+<h2>
+ Lenguaje de Marcas
+</h2> 
+
+<div>
  <img src="https://www.json.org/img/json160.gif" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="height: 4rem" />
+</div>
+
+<h2>
+ Tools
+</h2> 
+
+<div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height: 4rem" />
@@ -65,8 +81,24 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" style="height: 4rem" />
- <img src="https://www.cypress.io/images/layouts/shared/navbar-brand.svg" style="height: 4rem" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="height: 6rem" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" style="height: 6rem" />
+</div>
+
+<h2>
+ Testing
+</h2> 
+ 
+<div>
+ <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" style="height: 4rem" />
+</div> 
+
+<h2>
+ Otras Tecnologias
+</h2> 
+
+<div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" style="height: 4rem" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="height: 4rem" />
