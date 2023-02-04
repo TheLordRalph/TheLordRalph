@@ -10,7 +10,7 @@
 </br>
  
 <p>
- Bienvenidos amantes del codigo a mi humilde GitHub. Soy un apasionado de la programación con mucho interes en aprender. Estoy especialicado en Java, SQL y JavaScript. Y tengo más conocimientos en otras tecnologías. Actualmente estoy desarrollando un proyecto que consites en un <a href="https://github.com/TheLordRalph/dashboard"> dasboard </a> para la gestion de un hotel, realizado en React.
+ Bienvenidos amantes del codigo a mi humilde GitHub. Soy un apasionado de la programación con mucho interes en aprender. Estoy especialicado en Java, SQL y JavaScript y tengo muchos mass conocimientos en otras tecnologías. Actualmente estoy desarrollando un proyecto que consites en un <a href="https://github.com/TheLordRalph/dashboard"> dasboard </a> para la gestion de un hotel, realizado en React.
 </p>
 
 </br>
