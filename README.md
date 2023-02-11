@@ -30,8 +30,8 @@
 
 <img align="right" width=30% height=30% src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif">
 <ul>
-<li>🔭 I’m currently working on React</li>
-<li>🌱 I’m currently learning TypeScript</li>
+<li>🔭 I’m currently working on SQL</li>
+<li>🌱 I’m currently learning Python</li>
 <li>💭 I dream of making a good video game</li>
 <li>💬 Ask me about anything</li>
 <li>📫 How to reach me: <a href="mailto:raulmoretamartin@gmail.com">raulmoretamartin@gmail.com</a></li>
