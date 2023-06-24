@@ -10,7 +10,7 @@
 </br>
  
 <p>
- Bienvenidos amantes del codigo a mi humilde GitHub. Soy un apasionado de la programación con mucho interes en aprender. Estoy especialicado en Java, SQL y JavaScript y tengo muchos mas conocimientos en otras tecnologías. Actualmente estoy trabajando como Data Analytics en SQL.
+ Bienvenidos amantes del codigo a mi humilde GitHub. Soy un apasionado de la programación con mucho interes en aprender. Estoy especialicado en Java, SQL y JavaScript y tengo muchos mas conocimientos en otras tecnologías. Actualmente estoy desarrollando una aplicacion web en solitario.
 </p>
 
 </br>
@@ -30,7 +30,7 @@
 
 <img align="right" width=30% height=30% src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif">
 <ul>
-<li>🔭 I’m currently working on SQL</li>
+<li>🔭 I’m currently working on Full Stack Developer</li>
 <li>🌱 I’m currently learning Python</li>
 <li>💭 I dream of making a good video game</li>
 <li>💬 Ask me about anything</li>
